@@ -20,5 +20,9 @@ As a **Business Analyst**, I contributed to this project by:
 - **Defining requirements**: Outlining functional and non-functional requirements, ensuring the system is efficient, secure, and scalable for future growth.
 
 This project demonstrates the value a Business Analyst brings to transforming business objectives into actionable system features while optimizing the user experience.
+## Documentation
+
+- [Business Requirements Document (BRD)](docs/BRD.md)
+
 
 
